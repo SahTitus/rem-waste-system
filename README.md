@@ -4,16 +4,16 @@ A skip selection application built with React, Context API and Vite for efficien
 
 ## Features
 
-### Core Features (Per Assignment Requirements)
+### Core Features
 
 - **Multi-Step Flow Navigation**:
 
-- Postcode entry and validation
-- Waste type selection
+- Postcode entry and validation (placeholder)
+- Waste type selection (placeholder)
 - Skip size selection with real-time data
-- Permit checking
-- Date selection
-- Payment processing
+- Permit checking (placeholder)
+- Date selection (placeholder)
+- Payment processing (placeholder)
 
 
 
@@ -75,11 +75,11 @@ npm run dev
 
 ## Live Demo
 
-Access the live version: [REM Waste]()
+Access the live version: [REM Waste](https://codesandbox.io/p/github/SahTitus/rem-waste-system/main?import=true)
 
 ## Project Structure
 
-
+```
 src/
 ├── components/          # Reusable UI components
 │   ├── steps/           # Step-specific components
@@ -88,6 +88,7 @@ src/
 ├── constants/          # Application constants
 ├── utils/              # Helper functions
 └── styles/             # CSS and styling
+```
 
 ## Context API Implementation
 
