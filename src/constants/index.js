@@ -1,0 +1,8 @@
+export const STEPS = {
+  POSTCODE: 1,
+  WASTE_TYPE: 2,
+  SELECT_SKIP: 3,
+  PERMIT_CHECK: 4,
+  CHOOSE_DATE: 5,
+  PAYMENT: 6,
+};
